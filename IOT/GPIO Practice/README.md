@@ -1,3 +1,3 @@
 ### General Purpose Input Output
 
-GPIO ¿¡ ´ëÇÑ ÀÌ·Ğ °øºÎ ¹× Àû¿ë
+Raspberry PI 3B+ GPIO ê³µë¶€ ë° ì—°ìŠµ
