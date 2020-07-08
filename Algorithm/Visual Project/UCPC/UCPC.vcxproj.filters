@@ -79,6 +79,9 @@
     <Filter Include="소스 파일\BruteForce">
       <UniqueIdentifier>{2d2518c5-5e37-4de5-8540-df5e6965a3dd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Socket">
+      <UniqueIdentifier>{ab07efda-0878-498f-bdad-b29ea846fcdf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="15650_1.cpp">
@@ -287,6 +290,18 @@
     </ClCompile>
     <ClCompile Include="1018_체스판 다시 칠하기.cpp">
       <Filter>소스 파일\BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="1086_박성원.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1019_책 페이지.cpp">
+      <Filter>소스 파일\BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="허프만코드.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="udp_server.cpp">
+      <Filter>소스 파일\Socket</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

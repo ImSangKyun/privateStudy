@@ -1,2 +1,21 @@
-﻿  1018_체스판 다시 칠하기.cpp
-  UCPC.vcxproj -> D:\Github\ACM\ImSangKyun\UCPC\Debug\UCPC.exe
+﻿  연습장.cpp
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(66): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(90): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(314): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(330): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(343): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(352): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(360): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(373): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(374): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(383): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(443): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+d:\github\privatestudy\algorithm\visual project\ucpc\연습장.cpp(444): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+  UCPC.vcxproj -> D:\Github\privateStudy\Algorithm\Visual Project\Debug\UCPC.exe
